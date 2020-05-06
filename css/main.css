@@ -1,0 +1,18 @@
+p.logo {
+    text-align: center;
+}
+.main {
+    margin: 0 10%; 
+}
+h2 {
+    color: #353535;
+    font-size: 25px;
+    text-align: center
+}
+input, label, select {
+    font-size: 24px;
+}
+button {
+    background: #ccc;
+    padding: 10px 30px;
+}
